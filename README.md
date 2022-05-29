@@ -1,0 +1,1 @@
+# twrp_device_lito_qrd
